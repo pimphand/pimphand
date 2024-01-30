@@ -1,6 +1,8 @@
 
 # <p align="center">| BACK END DEVELOPER |  👋</p>
-<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript"> <img src="https://laravel.com/img/logomark.min.svg" height="32px" alt="laravel">  </p>
+<p align="center"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32px" alt="php">    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="32px" alt="javascript"> <img src="https://laravel.com/img/logomark.min.svg" height="32px" alt="laravel"> 
+<img src="https://go.dev/images/go-logo-white.svg" height="32px">
+</p>
 # Hi, I'm Faisol Dwiki Amrizal. I live in Madiun, East Java, Indonesia. I am Web Developer. I like to feed cat in my spare time and build web projects that matters.
 
 # Github Performance Overall
