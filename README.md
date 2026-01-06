@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=520&lines=Backend+Developer;Build+Fast+%E2%80%A2+Think+Clean;Minimal+Neo-Brutal+Style" />
+</p>
+
 <h2 align="center" style="border:3px solid #000; padding:14px; font-weight:800;">
   👋 Faisol Dwiki Amrizal
 </h2>
@@ -21,7 +25,7 @@
 const me = {
   name: "Faisol Dwiki Amrizal",
   role: "Backend Developer",
-  focus: ["Performance", "Scalable System", "Clean Code"],
+  focus: ["Performance", "Scalable System", "Clean Architecture"],
   stack: ["Node.js", "Go", "React", "Next.js"],
-  style: "Minimal · Brutal · Functional"
+  principle: "Function first, style stays brutal"
 };
